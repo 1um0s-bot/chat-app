@@ -1,0 +1,27 @@
+{
+  "name": "轻聊",
+  "short_name": "轻聊",
+  "description": "简单、快速的即时通讯工具",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://p11-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/rc/pc/super_tool/50cd368077cd43ba8051dd4f1a84486c~tplv-a9rns2rl98-image.image?lk3s=8e244e95&rcl=202602281105295BF5426A1ECE678E4CA1&rrcfp=f06b921b&x-expires=1774839967&x-signature=bKoirCZwhtCtU3olB%2B2O4NDz1sI%3D",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "聊天",
+      "short_name": "聊天",
+      "description": "打开聊天界面",
+      "url": "chat.html",
+      "icons": [{ "src": "https://p11-flow-imagex-sign.byteimg.com/tos-cn-i-a9rns2rl98/rc/pc/super_tool/50cd368077cd43ba8051dd4f1a84486c~tplv-a9rns2rl98-image.image?lk3s=8e244e95&rcl=202602281105295BF5426A1ECE678E4CA1&rrcfp=f06b921b&x-expires=1774839967&x-signature=bKoirCZwhtCtU3olB%2B2O4NDz1sI%3D", "sizes": "192x192" }]
+    }
+  ]
+}
